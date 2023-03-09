@@ -1,0 +1,11 @@
+:root{
+    --azulBallena:#4E6E81;
+}
+body{
+    background-color: var(--azulBallena) !important;
+}
+@media(min-width:768px){
+    .form{
+        width: 600px !important;
+    }
+}
