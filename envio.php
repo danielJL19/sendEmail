@@ -19,7 +19,7 @@ if (isset($_POST)) {
     try {
         //Server settings
         $mail->SMTPDebug = 0; //0 - DESACTIVADO 2-ACTIVADO
-        //$mail->isSMTP();                                            //Send using SMTP
+        $mail->isSMTP();                                            //Send using SMTP
         $mail->Host       = 'outlook.office365.com';                     //Set the SMTP server to send through
         $mail->SMTPAuth   = true;                                   //Enable SMTP authentication
         $mail->Username   = 'danieljmnz15@hotmail.com';                     //SMTP username
