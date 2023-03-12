@@ -18,7 +18,7 @@
                     <input class="form-control" type="text" name="nombre" id="nombre" placeholder="Daniel">
                 </div>
                 <div class="mb-3">
-                    <label class="form-label" for="correo">Correo</label>
+                    <label class="form-label" for="correo">Correo a enviar</label>
                     <input class="form-control" type="email" name="correo" id="correo" placeholder="Jiménez">
                 </div>
                 <div class="mb-3">
