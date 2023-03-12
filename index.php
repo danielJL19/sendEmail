@@ -19,7 +19,7 @@
                 </div>
                 <div class="mb-3">
                     <label class="form-label" for="correo">Correo a enviar</label>
-                    <input class="form-control" type="email" name="correo" id="correo" placeholder="Jiménez">
+                    <input class="form-control" type="email" name="correo" id="correo" placeholder="example@dominio.cl">
                 </div>
                 <div class="mb-3">
                     <label class="form-label" for="asunto">Asunto</label>
